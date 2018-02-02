@@ -1,0 +1,6 @@
+Type "flac" for a usage summary or "flac --help" for all options
+h.Org Foundation
+flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
+welcome to redistribute it under certain conditions.  Type `flac' for details.
+
+ERROR: raw format options (--endian, --sign, --channels, --bps, and --sample-rate) are not allowed for non-raw input
